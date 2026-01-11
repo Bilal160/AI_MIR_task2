@@ -1,0 +1,5 @@
+{
+  "name": "Culturetelligence Dashboard",
+  "description": "An interactive organizational and survey response analytics dashboard featuring sentiment analysis, correlation heatmaps, and priority matrices based on proprietary scoring methodology.",
+  "requestFramePermissions": []
+}
