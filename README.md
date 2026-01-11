@@ -12,8 +12,6 @@ This is a **UI-only application** (frontend-only) that provides a comprehensive 
 - **Data Visualization**: Uses Recharts for interactive charts and visualizations
 - **Modern UI/UX**: Built with Tailwind CSS for a clean, responsive interface with intuitive navigation
 
-**Note**: This application uses mock data for demonstration purposes and does not include a backend. The modular architecture is structured to easily integrate with real backend APIs when needed. The filtering and export functionality are currently UI-only implementations.
-
 ## Getting Started
 
 ### Prerequisites
